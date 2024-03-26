@@ -21,7 +21,8 @@ print(result)
 
 ```
 ## Output: 
-![output](<rank ss 2.png>)
+![Screenshot 2024-03-26 141900](https://github.com/saravidhya/RANK-OF-A-MATRIX/assets/87062069/f4893d64-e920-47ea-92d6-f96da430ac64)
+
 
 
 ## Result:
